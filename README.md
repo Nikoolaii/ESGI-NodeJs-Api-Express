@@ -18,15 +18,14 @@ This is a RESTful API built with Express.js that provides endpoints for managing
 <!-- TABLE_CONTENT_PLACEHOLDER -->
 
 ## ℹ️ About the Project
-
-This project is a personal portfolio website that showcases my work, my experiences and also somes posts. It is built with Nuxtjs, a general-purpose programming language. The website is designed to be responsive and accessible on all devices, including desktops, tablets, and smartphones.
+This project is a RESTful API built using Express.js, a popular web application framework for Node.js. The API provides endpoints for managing users and messages, allowing clients to perform CRUD (Create, Read, Update, Delete) operations on both resources.
 
 ## 🛠 Stack Tech
 
-- [![Nuxt][Nuxt-badge]][Nuxt-url] - A general-purpose programming language
+- [![Nuxt][Express-badge]][Express-url] - A backend framework for building web applications and APIs.
 
-[Nuxt-badge]: https://img.shields.io/badge/nuxt-3670A0?style=for-the-badge&logo=nuxt&logoColor=ffdd54
-[Nuxt-url]: https://nuxt.com
+[Express-badge]: https://img.shields.io/badge/express-3670A0?style=for-the-badge&logo=express&logoColor=ffdd54
+[Express-url]: https://expressjs.com/
 
 ## ⚙ ️Setup
 
