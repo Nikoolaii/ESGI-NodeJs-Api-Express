@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
-<p align="center"><a href="https://github.com/Nikoolaii/Nikoolaii-PortfolioV3/graphs/contributors"><img src="https://img.shields.io/github/contributors/Nikoolaii/Nikoolaii-PortfolioV3.svg?style=for-the-badge" alt="Contributors"></a>
-        <a href="https://github.com/Nikoolaii/Nikoolaii-PortfolioV3/network/members"><img src="https://img.shields.io/github/forks/Nikoolaii/Nikoolaii-PortfolioV3.svg?style=for-the-badge" alt="Forks"></a>
-        <a href="https://github.com/Nikoolaii/Nikoolaii-PortfolioV3/stargazers"><img src="https://img.shields.io/github/stars/Nikoolaii/Nikoolaii-PortfolioV3.svg?style=for-the-badge" alt="Stargazers"></a>
-        <a href="https://github.com/Nikoolaii/Nikoolaii-PortfolioV3/issues"><img src="https://img.shields.io/github/issues/Nikoolaii/Nikoolaii-PortfolioV3.svg?style=for-the-badge" alt="Issues"></a></p><br/>
+<p align="center"><a href="https://github.com/Nikoolaii/ESGI-NodeJs-Api-Express/graphs/contributors"><img src="https://img.shields.io/github/contributors/Nikoolaii/ESGI-NodeJs-Api-Express.svg?style=for-the-badge" alt="Contributors"></a>
+        <a href="https://github.com/Nikoolaii/ESGI-NodeJs-Api-Express/network/members"><img src="https://img.shields.io/github/forks/Nikoolaii/ESGI-NodeJs-Api-Express.svg?style=for-the-badge" alt="Forks"></a>
+        <a href="https://github.com/Nikoolaii/ESGI-NodeJs-Api-Express/stargazers"><img src="https://img.shields.io/github/stars/Nikoolaii/ESGI-NodeJs-Api-Express.svg?style=for-the-badge" alt="Stargazers"></a>
+        <a href="https://github.com/Nikoolaii/ESGI-NodeJs-Api-Express/issues"><img src="https://img.shields.io/github/issues/Nikoolaii/ESGI-NodeJs-Api-Express.svg?style=for-the-badge" alt="Issues"></a></p><br/>
 
 <div align="center">
 
@@ -44,7 +44,9 @@ git clone
 npm install
 ```
 
-3. Start the development server:
+3. Create a `.env` file in the root directory of the project and add the necessary environment variables. You can use the `.env.example` file as a template.
+
+4. Start the development server:
 
 ```bash
 npm run dev
@@ -70,8 +72,8 @@ We welcome contributions from the community! If you would like to contribute to 
 
 ### Contributors
 
-<a href="https://github.com/Nikoolaii/Nikoolaii-PortfolioV3/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Nikoolaii/Nikoolaii-PortfolioV3" />
+<a href="https://github.com/Nikoolaii/ESGI-NodeJs-Api-Express/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Nikoolaii/ESGI-NodeJs-Api-Express" />
 </a>
 
 ## 👨🏻‍ About the Author
